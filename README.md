@@ -1,7 +1,7 @@
-# 🧠 Tensor Class in C++
+# 🧠 Tensor Class in C++  (14+)
 
 This is a modern, flexible, and lightweight **Tensor class** written in C++, supporting generic types and many advanced tensor operations.  
-Ideal for symbolic computation, physics simulations, or mathematical explorations.
+Ideal for symbolic computation, physics simulations, or mathematical explorations. 
 
 ---
 
