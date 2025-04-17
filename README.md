@@ -1,4 +1,5 @@
 # 🧠 Tensor Class in C++
+![C++](https://img.shields.io/badge/C%2B%2B-17-blue) ![Status](https://img.shields.io/badge/status-stable-green) 
 
 This is a modern, flexible, and lightweight **Tensor class** written in C++, supporting generic types and many advanced tensor operations.  
 Ideal for symbolic computation, physics simulations, or mathematical explorations. 
